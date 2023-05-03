@@ -1,1 +1,13 @@
-This is a read me file
+Thir repo contains the content done for ML for cybersecurity. This contains all the code used till now to generate adversarial examples for website fingerprinting.
+These are the papers which have been referred when trying to perform this project. 
+
+https://arxiv.org/pdf/1906.03310.pdf
+https://arxiv.org/pdf/2204.00103.pdf
+https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_hayes.pdf - KfP paper
+
+
+Code repo from here abour random forest code from here. This code was used to generate the model and then used for adversarial examples for this:
+https://github.com/jhayes14/k-FP
+
+Datasets from here: 
+https://www.cs.sfu.ca/~taowang/wf/data/
