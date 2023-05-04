@@ -6,7 +6,7 @@ https://arxiv.org/pdf/2204.00103.pdf
 https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_hayes.pdf - KfP paper
 
 
-Code repo from here abour random forest code from here. This code was used to generate the model and then used for adversarial examples for this:
+Code repo of random forest code from here. This code was used to generate the model and then used for adversarial examples for this:
 https://github.com/jhayes14/k-FP
 
 Datasets from here: 
