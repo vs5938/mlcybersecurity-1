@@ -13,7 +13,7 @@ Datasets from here:
 https://www.cs.sfu.ca/~taowang/wf/data/
 
 This is written in python and executed on google colab. You can run this on your local notebook as well. For this, you will need to install packages manually 
-numpy, seaborn, matplotlib. Code to fetch the data from google drive is provided as well. This will make it easier for you to run this once you add this script 
+numpy, seaborn, matplotlib, scikit-learn. Code to fetch the data from google drive is provided as well. This will make it easier for you to run this once you add this script 
 to your colab project. 
 
 The main script is fingerprinting_using_RF.ipynb. Rest all code was written at the start of the course for setting up repo. This script contains all the required code
