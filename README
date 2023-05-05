@@ -12,7 +12,7 @@ https://github.com/jhayes14/k-FP
 Datasets from here: 
 https://www.cs.sfu.ca/~taowang/wf/data/
 
-This is written in python and executed on google colab. You can run this on your local notebook as well. For this, you will need to install packages manily 
+This is written in python and executed on google colab. You can run this on your local notebook as well. For this, you will need to install packages manually 
 numpy, seaborn, matplotlib. Code to fetch the data from google drive is provided as well. This will make it easier for you to run this once you add this script 
 to your colab project. 
 
